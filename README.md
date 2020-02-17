@@ -2,7 +2,7 @@
 將 JSMpeg js 轉成Vue.js可以用的模組使用~
 
 Demo
-
+'''
 <script>
 import JSMpeg from 'vue-jsmpeg';
 export default {
@@ -16,3 +16,4 @@ export default {
   }
 }
 </script>
+'''
